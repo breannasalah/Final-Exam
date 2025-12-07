@@ -13,19 +13,27 @@ This repository contains study materials and resources for a cybersecurity/infor
 ## Repository Structure
 
 ```
-Final-Exam/
+.
 ├── .github/               # GitHub configuration and instructions
 ├── Final-Exam/
-│   ├── IgnoreME/         # Reference materials and templates (PDFs)
+│   ├── IgnoreME/         # Reference materials (PDFs) and templates
+│   │   ├── Templates/
+│   │   └── Unrelated Questions/
 │   ├── Study Guide/      # Main study materials
-│   │   ├── Study Guide (1-15)/  # Individual topic modules
-│   │   └── Student Study Guide and Assessment Bank.md
+│   │   ├── Study Guide (1-15)/        # Individual topic modules
+│   │   ├── Sample Questions - Useful/ # Practice questions
+│   │   ├── Textbook/                  # Textbook resources
+│   │   ├── Student Study Guide and Assessment Bank.md
+│   │   ├── 0 Use This Study Guide.pdf
+│   │   └── 1 My Database.base
 │   └── README.md
 └── README.md
 ```
 
 ### Key Directories:
 - **Study Guide (1-15)**: Contains the main study materials with files 0-15 (16 files total), where file 0 is the completed master guide and files 1-15 are individual topic modules
+- **Sample Questions - Useful**: Additional practice questions for exam preparation
+- **Textbook**: Textbook-related resources and materials
 - **IgnoreME**: Contains source PDFs and unrelated reference questions
 - **Templates**: Formatting and conversion templates (located in IgnoreME/Templates)
 
