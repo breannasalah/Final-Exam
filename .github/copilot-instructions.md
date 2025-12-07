@@ -25,7 +25,7 @@ Final-Exam/
 ```
 
 ### Key Directories:
-- **Study Guide (1-15)**: Contains 15 markdown files, each covering a specific security domain
+- **Study Guide (1-15)**: Contains 16 markdown files (0-15), where 0 is the completed master guide and 1-15 are individual topic modules
 - **IgnoreME**: Contains source PDFs and unrelated reference questions
 - **Templates**: Formatting and conversion templates
 
