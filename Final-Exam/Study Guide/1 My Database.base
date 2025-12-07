@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder != "copilot/copilot-conversations"
+        - file.name != "1 My Database.base"
+        - file.name != "Web Browser"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+  - type: table
+    name: Study Guide
+  - type: cards
+    name: Textbook
