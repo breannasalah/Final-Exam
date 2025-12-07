@@ -25,7 +25,7 @@ Final-Exam/
 ```
 
 ### Key Directories:
-- **Study Guide (1-15)**: Contains 16 markdown files (0-15), where 0 is the completed master guide and 1-15 are individual topic modules
+- **Study Guide (1-15)**: Contains the main study materials with files 0-15 (16 files total), where file 0 is the completed master guide and files 1-15 are individual topic modules
 - **IgnoreME**: Contains source PDFs and unrelated reference questions
 - **Templates**: Formatting and conversion templates
 
@@ -62,30 +62,32 @@ Final-Exam/
 
 ### Security Topics Coverage
 
-The study guides should cover these 15 core areas:
+The study guides cover these 15 core security areas (files 1-15):
 1. CIA Triad & Organizational Security
-2. Risk Management & Vulnerability Assessment
+2. Malware & System Threats
 3. Cryptography & Secure Communications
 4. Network Threats & Attack Techniques
 5. Network Defense Technologies
 6. Network Infrastructure & Protocols
 7. Cloud Computing & Service Models
-8. Application Security
+8. Wireless Security
 9. Endpoint & Mobile Security
 10. Industrial & Operational Technology
 11. Identity & Access Management
 12. Business Continuity & Resilience
-13. Incident Response & Digital Forensics
+13. Risk Management & Security Controls
 14. Security Testing & Assessment
 15. Security Governance & Compliance
+
+Note: File 0 contains the completed master study guide consolidating all topics.
 
 ### File Management
 
 - **Do not modify** files in the `IgnoreME` directory (source materials)
 - Focus edits on markdown files in `Study Guide` directory
 - Preserve existing formatting and structure when making updates
-- Keep completed study guides in numbered format (0-15)
-- Maintain the "Final Exam Study Guide (Completed).md" as the master reference
+- Keep completed study guides in numbered format (1-15 for individual topics)
+- Maintain file "0. Final Exam Study Guide (Completed).md" as the master reference
 
 ## Best Practices
 
