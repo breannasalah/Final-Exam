@@ -2,6 +2,19 @@
 
 **Repository Purpose:** Comprehensive study materials for a Security/IT final exam, organized for easy access by students and AI assistants like ChatGPT.
 
+---
+
+## 🚀 New to This Repository?
+
+**Start Here:**
+1. 📖 [**GETTING_STARTED.md**](./GETTING_STARTED.md) - Complete study guide for new students
+2. 🤖 [**CHATGPT_GUIDE.md**](./CHATGPT_GUIDE.md) - How to use ChatGPT with this repository
+3. 📑 [**TABLE_OF_CONTENTS.md**](./TABLE_OF_CONTENTS.md) - Visual index of all materials
+4. 🗺️ [**NAVIGATION.md**](./NAVIGATION.md) - Detailed repository map
+5. 🔍 [**AI-INDEX.md**](./AI-INDEX.md) - Quick keyword reference for AI assistants
+
+---
+
 ## 📚 Quick Navigation
 
 ### Primary Study Materials
