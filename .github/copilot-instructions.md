@@ -27,7 +27,7 @@ Final-Exam/
 ### Key Directories:
 - **Study Guide (1-15)**: Contains the main study materials with files 0-15 (16 files total), where file 0 is the completed master guide and files 1-15 are individual topic modules
 - **IgnoreME**: Contains source PDFs and unrelated reference questions
-- **Templates**: Formatting and conversion templates
+- **Templates**: Formatting and conversion templates (located in IgnoreME/Templates)
 
 ## Content Guidelines
 
@@ -124,7 +124,7 @@ Note: File 0 contains the completed master study guide consolidating all topics.
 - OWASP security guidelines
 
 ### Markdown References
-- [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+- [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Notes for Copilot
